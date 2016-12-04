@@ -1,0 +1,6 @@
+<?php
+
+/**
+ * @file
+ * Use XCache to store cache data.
+ */
