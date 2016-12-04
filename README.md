@@ -30,7 +30,7 @@ INSTALATION
   xcache.var_size = 100M ; memory size for variables
   ```
   
-  Seee more details (here)[https://xcache.lighttpd.net/wiki/XcacheIni]
+  See more details [here](https://xcache.lighttpd.net/wiki/XcacheIni)
 3. Change settings.php by adding next lines:
   ```
   $settings['cache_default_class'] = 'XCacheCache';
